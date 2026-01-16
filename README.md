@@ -7,6 +7,7 @@ Overview
 WakiliOS is a modern, API-first legal practice management system developed at Melbur Studios to support advocates, law firms, and legal service providers in managing cases, clients, communication, and documentation through a secure and scalable digital platform.
 Built using TypeScript, Node.js (Express), MongoDB, and React, WakiliOS is designed to digitize and streamline legal workflows that are traditionally manual, fragmented, or paper-based — particularly within Kenyan legal systems where advocates require flexible, locally relevant tools.
 This repository provides a limited, demonstration-only view of the application’s internal structure for portfolio and assessment purposes. Only selected, non-sensitive, non-executable files have been included. The application is fully functional in production, but the upload here intentionally excludes core runtime files, private modules, and commercially sensitive components.
+<br><br>
 Vision & Motivation
 WakiliOS was conceived to address a recurring challenge within legal practice; high administrative overhead, fragmented communication, and poor case visibility. The platform reflects Melbur Studios’ commitment to building professionally relevant, socially impactful software that meets real-world needs.
 <br><br>
@@ -28,6 +29,7 @@ Frontend
 •	Nodemailer – Email notifications and verification
 •	Stripe (optional) – Payment and billing integration
 •	PM2 / Node runtime support
+<br><br>
 Who WakiliOS Is For
 WakiliOS is designed primarily for:
 •	Advocates (solo practitioners and chambers)
@@ -35,6 +37,7 @@ WakiliOS is designed primarily for:
 •	Legal service organizations
 •	Legal-tech innovators seeking an extensible backend foundation
 The system uses the term Advocate intentionally, reflecting Kenyan and Commonwealth legal terminology rather than American legal conventions.
+<br><br>
 Key Features
 🔐 Authentication & Authorization
 •	Secure user signup and login
@@ -70,18 +73,18 @@ Key Features
 •	Fully RESTful backend
 •	Swagger-powered API documentation
 •	Designed for future mobile or third-party integrations
+<br><br>
 Credits
-WakiliOS is one of Melbur Studios’ flagship software projects, demonstrating the studio’s capability to deliver domain-specific, production-grade platforms.
+WakiliOS is one of Melbur Studios’ flagship software projects, demonstrating the studio’s capability to deliver domain-specific, production-grade platforms.<br>
 Website:
-https://studios.melbur.co.ke
+https://studios.melbur.co.ke<br>
 A Message from the Developer
 WakiliOS was inspired by my background in law and digital technology.
-Having interacted with legal systems that rely heavily on manual processes, I saw an opportunity to design a platform that respects legal professionalism while embracing modern software engineering.
+Having interacted with legal systems that rely heavily on manual processes, I saw an opportunity to design a platform that respects legal professionalism while embracing modern software engineering.<br>
 Developed at Melbur Studios, WakiliOS represents my commitment to building tools that empower advocates, improve access to organized legal services, and demonstrate how African-led innovation can meet global standards.
 — Benson Muigai Muya
-Founder & Lead Developer, Melbur Studios
+Founder & Lead Developer, Melbur Studios<br><br>
 License
-This project is released under the MIT License, encouraging collaboration, learning, and responsible reuse.
+This project is released under the MIT License, encouraging collaboration, learning, and responsible reuse.<br><br>
 Repository
-Maintained by Melbur Studios
-👉 https://github.com/MelburStudios/WakiliOS
+Maintained by Melbur Studios: 👉 https://github.com/MelburStudios/WakiliOS

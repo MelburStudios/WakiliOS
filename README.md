@@ -39,37 +39,37 @@ WakiliOS is designed primarily for:
 The system uses the term Advocate intentionally, reflecting Kenyan and Commonwealth legal terminology rather than American legal conventions.
 <br><br>
 Key Features<br>
-🔐 Authentication & Authorization
+🔐 Authentication & Authorization<br>
 •	Secure user signup and login
 •	JWT-based authentication
 •	Role separation (Admin, Advocate, Client/User)
 •	Password hashing and reset workflows<br>
-👥 User & Advocate Management
+👥 User & Advocate Management<br>
 •	Profile management
 •	Advocate-specific dashboards
 •	Secure access control per role<br>
-📂 Case Management
+📂 Case Management<br>
 •	Create and manage legal cases
 •	Assign advocates
 •	Track case progress and history
 •	Structured case records for auditability<br>
-🗂️ Document & File Handling
+🗂️ Document & File Handling<br>
 •	Secure document uploads
 •	AWS S3-backed file storage
 •	Controlled access to sensitive legal files<br>
-💬 Messaging & Communication
+💬 Messaging & Communication<br>
 •	Internal messaging between users and advocates
 •	Message persistence and history
 •	Structured communication per case<br>
-📰 Content & Knowledge Modules
+📰 Content & Knowledge Modules<br>
 •	Blog and article management
 •	Categories, tags, and comments
 •	Public-facing legal content support<br>
-📊 Administrative Controls
+📊 Administrative Controls<br>
 •	Admin dashboards
 •	System configuration settings
 •	User moderation and oversight<br>
-📘 API-First Architecture
+📘 API-First Architecture<br>
 •	Fully RESTful backend
 •	Swagger-powered API documentation
 •	Designed for future mobile or third-party integrations

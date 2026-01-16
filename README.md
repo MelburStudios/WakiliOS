@@ -2,13 +2,14 @@ WakiliOS ⚖️
 A Digital Legal Practice Management Platform
 Developed at Melbur Studios
 Inspired to Design | Designed to Inspire
-<br>
+<br><br>
 Overview
 WakiliOS is a modern, API-first legal practice management system developed at Melbur Studios to support advocates, law firms, and legal service providers in managing cases, clients, communication, and documentation through a secure and scalable digital platform.
 Built using TypeScript, Node.js (Express), MongoDB, and React, WakiliOS is designed to digitize and streamline legal workflows that are traditionally manual, fragmented, or paper-based — particularly within Kenyan legal systems where advocates require flexible, locally relevant tools.
 This repository provides a limited, demonstration-only view of the application’s internal structure for portfolio and assessment purposes. Only selected, non-sensitive, non-executable files have been included. The application is fully functional in production, but the upload here intentionally excludes core runtime files, private modules, and commercially sensitive components.
 Vision & Motivation
 WakiliOS was conceived to address a recurring challenge within legal practice; high administrative overhead, fragmented communication, and poor case visibility. The platform reflects Melbur Studios’ commitment to building professionally relevant, socially impactful software that meets real-world needs.
+<br><br>
 Core Technologies
 WakiliOS is built on a proven, production-ready technology stack:
 Backend

@@ -1,7 +1,6 @@
 # ⚖️WakiliOS <br> 
 
-A Digital Legal Practice Management Platform<br>
-Developed at Melbur Studios<br><br>
+WakiliOS is a Digital Legal Practice Management Platform, developed at Melbur Studios<br><br>
 Overview<br>
 WakiliOS is a modern, API-first legal practice management system developed at Melbur Studios to support advocates, law firms, and legal service providers in managing cases, clients, communication, and documentation through a secure and scalable digital platform.
 Built using TypeScript, Node.js (Express), MongoDB, and React, WakiliOS is designed to digitize and streamline legal workflows that are traditionally manual, fragmented, or paper-based — particularly within African legal systems where advocates require flexible, locally relevant tools.

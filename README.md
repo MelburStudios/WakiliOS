@@ -78,9 +78,12 @@ License<br>
 This project is released under the MIT License, encouraging collaboration, learning, and responsible reuse.<br><br>
 👀*Repository Scope and Visibility*<br>
 This repository contains selected, representative files only, provided for technical review and demonstration purposes. The complete system includes additional proprietary components and configurations that are not publicly shared, as the software remains the intellectual property of Melbur Studios and is commercially licensed to partner organisations.<br>
+
 The repository is intentionally maintained within a limited visibility window (1 January – 31 May 2026) for assessment and verification purposes. After this period, the repository may be restricted or made private to protect commercial IP.<br><br>
-👨‍💻*Author & Credits*<br>
-    🛠️ *Developed at* Melbur Studios<br>
+
+👨‍💻 *Author & Credits*<br>
+
+    🛠️ Developed at Melbur Studios<br>
     🌐 https://studios.melbur.co.ke<br>
-    👤 *Project Lead*: Benson Muya<br>
+    👤 Project Lead: Benson Muya<br>
 Melbur Studios is responsible for all updates, branding work, version management, technical maintenance, and refinement of the program.
